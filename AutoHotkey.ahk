@@ -114,7 +114,7 @@ return
 #q::Send !{F4}
 
 ; Remap Windows + Tab to Alt + Tab.
-LWin & Tab::AltTab
+LAlt & Tab::AltTab
 
 ; minimize windows
 #m::WinMinimize,a
